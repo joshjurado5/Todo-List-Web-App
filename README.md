@@ -1,0 +1,1 @@
+This app was made using HTML, CSS, and vanilla Javascript
